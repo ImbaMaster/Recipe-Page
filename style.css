@@ -197,6 +197,7 @@ ul li::marker {
   }
 
   main {
+    max-width: none;
     row-gap: 0;
     padding: 0;
     margin: 0;
